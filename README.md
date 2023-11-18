@@ -15,7 +15,7 @@ Employee Details
 It is a simple react application that shows the productivity and employess details
 
 ## Live Project Link
-Link :  https://profileui.onrender.com/
+Link :  https://employeedb-fauu.onrender.com/
 
 
 
